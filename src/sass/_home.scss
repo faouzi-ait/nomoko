@@ -1,0 +1,28 @@
+.pointer__style {
+    width: 25px;
+    cursor: pointer;
+}
+
+.text_size {
+    font-size: 1rem;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: .4rem;
+    margin-top: .5rem;
+    padding-top: .5rem;
+    border-top: 4px solid #000;
+}
+
+.form_dropdown {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.all_records {
+    margin-top: .5rem;
+}

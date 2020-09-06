@@ -1,0 +1,401 @@
+[{
+      "ID": 1,
+      "latitude": 47.3860685,
+      "longitude": 8.5482374,
+      "Price": 2770,
+      "BuildingType": "Residential",
+      "Parking": true
+   },
+   {
+      "ID": 2,
+      "latitude": 47.3550125,
+      "longitude": 8.603635,
+      "Price": 4080,
+      "BuildingType": "Offices",
+      "Parking": false
+   },
+   {
+      "ID": 3,
+      "latitude": 47.4097838,
+      "longitude": 8.5413488,
+      "Price": 1300,
+      "BuildingType": "Commercial",
+      "Parking": true
+   },
+   {
+      "ID": 4,
+      "latitude": 47.3781281,
+      "longitude": 8.5294908,
+      "Price": 1540,
+      "BuildingType": "Industrial",
+      "Parking": false
+   },
+   {
+      "ID": 5,
+      "latitude": 47.3836514,
+      "longitude": 8.5482374,
+      "Price": 2770,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   },
+   {
+      "ID": 6,
+      "latitude": 47.3550125,
+      "longitude": 8.603635,
+      "Price": 4080,
+      "BuildingType": "Residential",
+      "Parking": true
+   },
+   {
+      "ID": 7,
+      "latitude": 47.4097838,
+      "longitude": 8.5413488,
+      "Price": 1300,
+      "BuildingType": "Residential",
+      "Parking": false
+   },
+   {
+      "ID": 8,
+      "latitude": 47.3781281,
+      "longitude": 8.5294908,
+      "Price": 1540,
+      "BuildingType": "Commercial",
+      "Parking": true
+   },
+   {
+      "ID": 9,
+      "latitude": 47.4192229,
+      "longitude": 8.5494563,
+      "Price": 1880,
+      "BuildingType": "Commercial",
+      "Parking": false
+   },
+   {
+      "ID": 10,
+      "latitude": 47.4107556,
+      "longitude": 8.5327957,
+      "Price": 1650,
+      "BuildingType": "Commercial",
+      "Parking": true
+   },
+   {
+      "ID": 11,
+      "latitude": 47.4057257,
+      "longitude": 8.5682659,
+      "Price": 1395,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   },
+   {
+      "ID": 12,
+      "latitude": 47.4155082,
+      "longitude": 8.4797136,
+      "Price": 1640,
+      "BuildingType": "Industrial",
+      "Parking": false
+   },
+   {
+      "ID": 13,
+      "latitude": 47.3607583,
+      "longitude": 8.5521945,
+      "Price": 2820,
+      "BuildingType": "Offices",
+      "Parking": true
+   },
+   {
+      "ID": 14,
+      "latitude": 47.3774203,
+      "longitude": 8.527458,
+      "Price": 1450,
+      "BuildingType": "Offices",
+      "Parking": false
+   },
+   {
+      "ID": 15,
+      "latitude": 47.3772294,
+      "longitude": 8.5272474,
+      "Price": 1500,
+      "BuildingType": "Industrial",
+      "Parking": true
+   },
+   {
+      "ID": 16,
+      "latitude": 47.407377,
+      "longitude": 8.5688857,
+      "Price": 730,
+      "BuildingType": "Industrial",
+      "Parking": true
+   },
+   {
+      "ID": 17,
+      "latitude": 47.4260168,
+      "longitude": 8.5482461,
+      "Price": 1480,
+      "BuildingType": "Residential",
+      "Parking": true
+   },
+   {
+      "ID": 18,
+      "latitude": 47.3708705,
+      "longitude": 8.501086,
+      "Price": 1420,
+      "BuildingType": "Residential",
+      "Parking": true
+   },
+   {
+      "ID": 19,
+      "latitude": 47.3787006,
+      "longitude": 8.5290454,
+      "Price": 1170,
+      "BuildingType": "Offices",
+      "Parking": false
+   },
+   {
+      "ID": 20,
+      "latitude": 47.3687377,
+      "longitude": 8.5021689,
+      "Price": 1600,
+      "BuildingType": "Offices",
+      "Parking": false
+   },
+   {
+      "ID": 21,
+      "latitude": 47.4039913,
+      "longitude": 8.5865811,
+      "Price": 1430,
+      "BuildingType": "Industrial",
+      "Parking": true
+   },
+   {
+      "ID": 22,
+      "latitude": 47.376962,
+      "longitude": 8.5283591,
+      "Price": 1526,
+      "BuildingType": "Commercial",
+      "Parking": true
+   },
+   {
+      "ID": 23,
+      "latitude": 47.4131171,
+      "longitude": 8.5445717,
+      "Price": 1575,
+      "BuildingType": "Industrial",
+      "Parking": true
+   },
+   {
+      "ID": 24,
+      "latitude": 47.3741362,
+      "longitude": 8.4852743,
+      "Price": 2250,
+      "BuildingType": "Offices",
+      "Parking": true
+   },
+   {
+      "ID": 25,
+      "latitude": 47.3785416,
+      "longitude": 8.5639165,
+      "Price": 3400,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   },
+   {
+      "ID": 26,
+      "latitude": 47.3952916,
+      "longitude": 8.522014,
+      "Price": 2260,
+      "BuildingType": "Mixed use",
+      "Parking": false
+   },
+   {
+      "ID": 27,
+      "latitude": 47.3550125,
+      "longitude": 8.603635,
+      "Price": 3470,
+      "BuildingType": "Mixed use",
+      "Parking": false
+   },
+   {
+      "ID": 28,
+      "latitude": 47.3550125,
+      "longitude": 8.603635,
+      "Price": 4650,
+      "BuildingType": "Residential",
+      "Parking": true
+   },
+   {
+      "ID": 29,
+      "latitude": 47.3540935,
+      "longitude": 8.5553344,
+      "Price": 1190,
+      "BuildingType": "Commercial",
+      "Parking": true
+   },
+   {
+      "ID": 30,
+      "latitude": 47.4311159,
+      "longitude": 8.5417774,
+      "Price": 3100,
+      "BuildingType": "Commercial",
+      "Parking": false
+   },
+   {
+      "ID": 31,
+      "latitude": 47.4093435,
+      "longitude": 8.5314723,
+      "Price": 1450,
+      "BuildingType": "Industrial",
+      "Parking": true
+   },
+   {
+      "ID": 32,
+      "latitude": 47.3981463,
+      "longitude": 8.5882039,
+      "Price": 850,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   },
+   {
+      "ID": 33,
+      "latitude": 47.3860685,
+      "longitude": 8.4887006,
+      "Price": 1600,
+      "BuildingType": "Offices",
+      "Parking": true
+   },
+   {
+      "ID": 34,
+      "latitude": 47.4049961,
+      "longitude": 8.5464462,
+      "Price": 2200,
+      "BuildingType": "Offices",
+      "Parking": true
+   },
+   {
+      "ID": 35,
+      "latitude": 47.3714175,
+      "longitude": 8.5213961,
+      "Price": 3150,
+      "BuildingType": "Commercial",
+      "Parking": false
+   },
+   {
+      "ID": 36,
+      "latitude": 47.3834952,
+      "longitude": 8.5428047,
+      "Price": 1590,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   },
+   {
+      "ID": 37,
+      "latitude": 47.3793183,
+      "longitude": 8.5317958,
+      "Price": 3196,
+      "BuildingType": "Mixed use",
+      "Parking": false
+   },
+   {
+      "ID": 38,
+      "latitude": 47.3375577,
+      "longitude": 8.5266948,
+      "Price": 1730,
+      "BuildingType": "Commercial",
+      "Parking": false
+   },
+   {
+      "ID": 39,
+      "latitude": 47.3633783,
+      "longitude": 8.5597119,
+      "Price": 2900,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   },
+   {
+      "ID": 40,
+      "latitude": 47.3576212,
+      "longitude": 8.5729142,
+      "Price": 2595,
+      "BuildingType": "Industrial",
+      "Parking": false
+   },
+   {
+      "ID": 41,
+      "latitude": 47.4197679,
+      "longitude": 8.5107819,
+      "Price": 1810,
+      "BuildingType": "Industrial",
+      "Parking": true
+   },
+   {
+      "ID": 42,
+      "latitude": 47.3918765,
+      "longitude": 8.4917187,
+      "Price": 2000,
+      "BuildingType": "Residential",
+      "Parking": false
+   },
+   {
+      "ID": 43,
+      "latitude": 47.3676673,
+      "longitude": 8.5309105,
+      "Price": 2090,
+      "BuildingType": "Residential",
+      "Parking": true
+   },
+   {
+      "ID": 44,
+      "latitude": 47.3732226,
+      "longitude": 8.5441272,
+      "Price": 2510,
+      "BuildingType": "Commercial",
+      "Parking": false
+   },
+   {
+      "ID": 45,
+      "latitude": 47.4052478,
+      "longitude": 8.5472437,
+      "Price": 1770,
+      "BuildingType": "Residential",
+      "Parking": false
+   },
+   {
+      "ID": 46,
+      "latitude": 47.4041114,
+      "longitude": 8.5558533,
+      "Price": 1900,
+      "BuildingType": "Mixed use",
+      "Parking": false
+   },
+   {
+      "ID": 47,
+      "latitude": 47.3810326,
+      "longitude": 8.5583433,
+      "Price": 3110,
+      "BuildingType": "Commercial",
+      "Parking": true
+   },
+   {
+      "ID": 48,
+      "latitude": 47.3646544,
+      "longitude": 8.5105568,
+      "Price": 2380,
+      "BuildingType": "Residential",
+      "Parking": false
+   },
+   {
+      "ID": 49,
+      "latitude": 47.4146582,
+      "longitude": 8.5681945,
+      "Price": 1542,
+      "BuildingType": "Residential",
+      "Parking": false
+   },
+   {
+      "ID": 50,
+      "latitude": 47.4013334,
+      "longitude": 8.5448032,
+      "Price": 931,
+      "BuildingType": "Mixed use",
+      "Parking": true
+   }
+]
